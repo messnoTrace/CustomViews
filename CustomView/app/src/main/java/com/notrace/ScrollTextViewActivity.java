@@ -3,7 +3,7 @@ package com.notrace;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.notrace.library.ScrollTextView;
+import com.notrace.library.views.ScrollTextView;
 
 public class ScrollTextViewActivity extends AppCompatActivity {
 

@@ -11,5 +11,17 @@
     android:orientation="vertical"
     tools:context="com.notrace.MainActivity">
 
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:max="100"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
 
+    <com.notrace.library.views.PanelView
+        android:id="@+id/panelview"
+        android:layout_marginTop="20dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        />
 </LinearLayout>

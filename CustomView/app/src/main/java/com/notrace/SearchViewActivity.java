@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.notrace.library.SearchView;
+import com.notrace.library.views.SearchView;
 
 public class SearchViewActivity extends AppCompatActivity implements View.OnClickListener{
 
